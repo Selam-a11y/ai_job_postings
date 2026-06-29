@@ -111,7 +111,7 @@ Hosted on **Google Cloud Run** (Europe West 2 — London region).
 
 ## 📊 Key Findings
 
-*(Update this section with your actual results from the BERT model and analysis)*
+
 
 - AI-related job postings are identifiable via BERT classification with high precision
 - AI adoption varies significantly by sector, seniority level, and geography
