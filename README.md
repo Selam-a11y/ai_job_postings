@@ -11,7 +11,7 @@ A data science project that uses **BERT NLP classification** to measure AI adopt
 This project quantifies AI adoption by analysing the language of real-world job postings (via the Lightcast dataset). Rather than relying on manual keyword rules, it fine-tunes a **BERT (Bidirectional Encoder Representations from Transformers)** model to classify whether a job posting reflects AI-related demand — enabling a more nuanced and scalable measure of AI diffusion across the economy.
 
 The results feed into an interactive dashboard that explores the relationship between AI adoption rates and labor market outcomes across sectors, regions, and time.
-
+The source for the labor market indicators is https://www.ilo.org/
 ---
 
 ## 🗂️ Repository Structure
