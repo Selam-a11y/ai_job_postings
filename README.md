@@ -43,10 +43,10 @@ ai_job_postings/
 Job postings data is sourced from **Lightcast** (formerly Burning Glass / EMSI), a leading labor market intelligence provider. The dataset contains structured fields including job title, employer, location, sector, and full posting text.
 
 ### 2. AI Adoption Measurement via BERT
-The core contribution of this project is using a **fine-tuned BERT model** to classify job postings as AI-related or not, based on the posting's full text. This goes beyond simple keyword matching by leveraging contextual language understanding.
+The core contribution of this project is using a **fine-tuned BERT model** to classify job postings as AI-generated or not, based on the posting's full text. This goes beyond simple keyword matching by leveraging contextual language understanding.
 
 - **Model:** `bert-base-uncased` (HuggingFace Transformers)
-- **Task:** Binary text classification (AI-related vs. non-AI-related job posting)
+- **Task:** Binary text classification (AI-generated vs. non-AI-generated job posting)
 - **Training:** Supervised fine-tuning on labelled job posting examples
 - **Evaluation:** Accuracy, precision, recall, F1-score
 
