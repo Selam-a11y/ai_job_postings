@@ -1,4 +1,4 @@
-# 🤖 AI Adoption in Job Postings — BERT-Based Labor Economics Analysis
+# 🤖 AI Adoption in Job Postings — BERT-Based Labor Economics Analysis (Lightcast Laboratory)
 
 A data science project that uses **BERT NLP classification** to measure AI adoption signals in job postings, combining text analysis with economic indicators to track how AI is reshaping labor markets.
 
